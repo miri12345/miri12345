@@ -1,4 +1,8 @@
-## Hii, i'm Miriã Moreno
+
+<p align="center">
+ 
+</p align="center">
+<img src="https://cdn.discordapp.com/attachments/688104936965144595/1273394143460196463/hiiiam.png?ex=66be7436&is=66bd22b6&hm=6690c093c488125cd931907c269fcdc685bd25acdcfccf4be657a535744dfce4&" />
 
 ## About me
 - 🎓 Finished a bachelor's degree in Game Design at Universidade Anhembi Morumbi 🎮
@@ -8,8 +12,8 @@
 
 <div>
   <a href="https://github.com/miri12345">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=miri12345&show_icons=true&theme=neon&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miri12345&layout=compact&langs_count=16&theme=neon"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=miri12345&show_icons=true&theme=neon&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miri12345&layout=compact&langs_count=16&theme=neon"/>
 </div>
 
 <div>

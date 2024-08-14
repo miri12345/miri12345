@@ -22,5 +22,6 @@
 
 <div>
    <a href="https://www.linkedin.com/in/miriã-moreno-9621201a2/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+   <a href="[https://www.linkedin.com/in/miriã-moreno-9621201a2/" target](https://linktr.ee/miri_airim)="_blank"><img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white="_blank"></a> 
    
 </div>

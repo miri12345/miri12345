@@ -12,8 +12,8 @@
 
 <div>
   <a href="https://github.com/miri12345">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=miri12345&show_icons=true&theme=neon&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miri12345&layout=compact&langs_count=16&theme=neon"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=miri12345&show_icons=true&theme=neon&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miri12345&layout=compact&langs_count=16&theme=neon"/>
 </div>
 
 <div>

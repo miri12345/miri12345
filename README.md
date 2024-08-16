@@ -30,7 +30,7 @@
 
 <div>
    <a href="https://www.linkedin.com/in/miriã-moreno-9621201a2/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-   <a href="[https://www.linkedin.com/in/miriã-moreno-9621201a2/" target](https://linktr.ee/miri_airim)="_blank"><img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white="_blank"></a> 
+   <a href="https://linktr.ee/miri_airim" target](https://linktr.ee/miri_airim)="_blank"><img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white="_blank"></a> 
     <a href="https://www.behance.net/mirimoreno" target](https://linktr.ee/miri_airim)="_blank"><img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white="_blank"></a> 
     <a href="https://miri-airim.itch.io"_blank"><img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white="_blank"></a> 
    

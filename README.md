@@ -6,7 +6,7 @@
 
 ## About me
 - 🎓 Finished a bachelor's degree in Game Design at Universidade Anhembi Morumbi 🎮
-- 🌱 I’m currently learning Kotlin and CSS
+- 🌱 I’m currently learning Kotlin and JAVA
 
   ##
 

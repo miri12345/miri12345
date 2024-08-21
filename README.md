@@ -18,7 +18,11 @@
 
 <div>
    <div style="display: inline_block"><br>
- 
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="right" alt="Rafa-yoda" height="130" width="130" src="https://cdn.discordapp.com/attachments/688104936965144595/1273364373808746539/gifmeu.gif?ex=66be587c&is=66bd06fc&hm=3844200296120e932039ebd8d873e08c12d6e7e05a8f39447c9385769a24af13&">
 </div>
 

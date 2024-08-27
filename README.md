@@ -2,7 +2,7 @@
 <p align="center">
  
 </p align="center">
-<img src="https://cdn.discordapp.com/attachments/688104936965144595/1273398888975568968/hiiiam.png?ex=66cda1e1&is=66cc5061&hm=0ce512b36bd091a9453f75f0ab5fa90695f65839d8bde705c4c4be7ded432b93&" />
+<img src="https://cdn.discordapp.com/attachments/688104936965144595/1273398888975568968/hiiiam.png?ex=66cf9c21&is=66ce4aa1&hm=bae011316a0a4e9d7e1589789a106af2fa15e010efe40420b30bcdf8cd1bc95d&" />
 
 ## About me
 - 🎓 Finished a bachelor's degree in Game Design at Universidade Anhembi Morumbi 🎮

@@ -2,7 +2,7 @@
 <p align="center">
  
 </p align="center">
-<img src="https://cdn.discordapp.com/attachments/688104936965144595/1273398888975568968/hiiiam.png?ex=66cf9c21&is=66ce4aa1&hm=bae011316a0a4e9d7e1589789a106af2fa15e010efe40420b30bcdf8cd1bc95d&" />
+<img src="https://cdn.discordapp.com/attachments/688104936965144595/1273398888975568968/hiiiam.png?ex=66ff1221&is=66fdc0a1&hm=c6b07c6768dfe272013317f921d156df5ead2d3f3e726950d4cfebc5381c7e3c&" />
 
 ## About me
 - 🎓 Finished a bachelor's degree in Game Design at Universidade Anhembi Morumbi 🎮
@@ -25,7 +25,7 @@
   <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
   <img align="center" alt="kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg">
-  <img align="right" alt="Rafa-yoda" height="130" width="130" src="https://cdn.discordapp.com/attachments/688104936965144595/1273364373808746539/gifmeu.gif?ex=66cd81bc&is=66cc303c&hm=07490652a153424aacf27b785906977ee92418d927be0375257bc0902aba3ebd&">
+  <img align="right" alt="gif girl" height="130" width="130" src="https://cdn.discordapp.com/attachments/688104936965144595/1273364373808746539/gifmeu.gif?ex=66fef1fc&is=66fda07c&hm=795cad5cc373526af8df281e33cb7f4ad597206524dd6c9cc667471bff050a16&">
 </div>
 
 ##

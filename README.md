@@ -25,6 +25,7 @@
   <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
   <img align="center" alt="kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg">
+  <img align="center" alt="kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg">
   <img align="right" alt="gif girl" height="130" width="130" src="https://cdn.discordapp.com/attachments/688104936965144595/1273364373808746539/gifmeu.gif?ex=672138fc&is=671fe77c&hm=a0bd8dd4f3f3a1418c08ba155cdcb9d229292c32316c4915473894aac45cd4b4&">
 </div>
 

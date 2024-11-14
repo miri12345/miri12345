@@ -2,7 +2,7 @@
 <p align="center">
  
 </p align="center">
-<img src="https://cdn.discordapp.com/attachments/688104936965144595/1299392607516102788/Header.png?ex=671d092b&is=671bb7ab&hm=1170fc31e7ba3498dd5098f951768a0702c081e4ba2155c112e7ab5eaeec24c8&" />
+<img src="https://cdn.discordapp.com/attachments/688104936965144595/1299392607516102788/Header.png?ex=6737672b&is=673615ab&hm=84d7fa4ebc60160a10fa928697852b5bde6bc7462236a7aec8a93ba9b277e224&" />
 
 ## About me
 - 🎓 Finished a bachelor's degree in Game Design at Universidade Anhembi Morumbi 🎮
@@ -26,7 +26,7 @@
   <img align="center" alt="java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
   <img align="center" alt="kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg">
   <img align="center" alt="kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg">
-  <img align="right" alt="gif girl" height="130" width="130" src="https://cdn.discordapp.com/attachments/688104936965144595/1273364373808746539/gifmeu.gif?ex=672138fc&is=671fe77c&hm=a0bd8dd4f3f3a1418c08ba155cdcb9d229292c32316c4915473894aac45cd4b4&">
+  <img align="right" alt="gif girl" height="130" width="130" src="https://cdn.discordapp.com/attachments/688104936965144595/1273364373808746539/gifmeu.gif?ex=6737a27c&is=673650fc&hm=8c09f06cda6d7965bb9941983327834bb75f64a9747316008b0517a7142d5f9a&">
 </div>
 
 ##

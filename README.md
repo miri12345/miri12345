@@ -2,7 +2,7 @@
 <p align="center">
  
 </p align="center">
-<img src="https://github.com/miri12345/Arquivos-de-estudos/blob/main/perfil%20git/Header.webp" />
+<img src="https://github.com/miri12345/miri12345/blob/main/perfil%20git/Header.webp" />
 
 ## About me
 - 🎓 Finished a bachelor's degree in Game Design at Universidade Anhembi Morumbi 🎮
@@ -26,7 +26,7 @@
   <img align="center" alt="java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
   <img align="center" alt="kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg">
   <img align="center" alt="kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg">
-  <img align="right" alt="gif girl" height="130" width="130" src="https://github.com/miri12345/Arquivos-de-estudos/blob/main/perfil%20git/gifmeu.gif">
+  <img align="right" alt="gif girl" height="130" width="130" src="https://github.com/miri12345/miri12345/blob/main/perfil%20git/gifmeu.gif">
 </div>
 
 ##
